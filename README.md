@@ -30,3 +30,5 @@ Collaborator: Completed independently without a classmate.
 - `myname.py` – A Python file that prints my first and last name.
 - `README.md` – This file, which describes the repository and tutorial activities.
 
+I would also like to apologize for not teaming up with a classmate. I completed the assessment at the last minute and reached out to the group to find a partner, but no one responded. I therefore completed the work independently.
+
